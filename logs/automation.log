@@ -1,0 +1,304 @@
+2024-08-31 18:47:02 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 18:48:38 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:16:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:21:45 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:21:58 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:21:59 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:21:59 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:22:00 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:22:02 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:22:02 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:22:10 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:22:12 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:22:31 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:22:39 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:22:39 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:22:39 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:22:40 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:22:42 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:22:42 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:23:00 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:23:02 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:23:55 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:24:04 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:24:04 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:24:05 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:24:06 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:24:07 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:24:08 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:24:21 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:24:23 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:24:57 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:28:36 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:29:44 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:30:31 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:38:24 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:46:58 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:47:09 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:47:09 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:47:10 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:47:11 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:47:12 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:47:13 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:47:21 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:47:23 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:49:03 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:49:10 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:49:11 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:49:11 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:49:12 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:49:14 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:49:14 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:49:22 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:49:24 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:49:45 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:49:45 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:49:48 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:49:49 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:49:53 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:49:54 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:50:16 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:50:18 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:52:25 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 19:52:36 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:52:36 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:52:36 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:52:37 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:52:39 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:52:39 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:52:45 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:52:47 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 19:52:57 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 19:52:57 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 19:52:57 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 19:52:58 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 19:53:00 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 19:53:00 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 19:53:09 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 19:53:11 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 20:02:14 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\Grid.xml
+
+2024-08-31 20:02:22 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 20:02:22 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 20:02:23 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 20:02:24 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 20:02:25 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 20:02:26 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 20:02:32 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 20:02:33 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 20:02:44 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 20:02:44 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 20:02:45 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 20:02:45 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 20:02:47 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 20:02:47 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 20:03:08 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 20:03:10 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 20:04:22 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 20:04:22 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 20:04:30 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 20:04:33 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 20:04:36 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 20:04:36 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 20:05:04 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 20:05:06 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 20:56:15 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\admin1\eclipse-workspace\Selenium-2024\Framework\testng.xml
+
+2024-08-31 20:56:30 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 20:56:31 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 20:56:32 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 20:56:32 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 20:56:34 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 20:56:35 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 20:56:47 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 20:56:50 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 20:58:09 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 20:58:09 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 20:58:09 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 20:58:10 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 20:58:12 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 20:58:12 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 20:58:21 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 20:58:23 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 21:11:52 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 21:11:52 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 21:11:53 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 21:11:54 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 21:11:57 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 21:11:57 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 21:12:10 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 21:12:14 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
+2024-08-31 21:21:48 INFO  TC001_AccountRegistration:21 -
+			Test Case Execution Starts
+2024-08-31 21:21:48 INFO  TC001_AccountRegistration:23 -
+			 ***** Clicked on MyAccount Option****
+2024-08-31 21:21:49 INFO  TC001_AccountRegistration:25 -
+			 ***** Clicked on Register Option****
+2024-08-31 21:21:50 INFO  TC001_AccountRegistration:28 -
+			Registration process starts
+2024-08-31 21:21:51 INFO  TC001_AccountRegistration:52 -
+			confimation message validation
+2024-08-31 21:21:52 INFO  TC001_AccountRegistration:64 -
+			Test case Execution is finished
+2024-08-31 21:22:12 INFO  TC002_LoginClass:21 -
+			*** Starting of TC002_LoginTest***
+2024-08-31 21:22:14 INFO  TC002_LoginClass:40 -
+			** Testing Ends**
